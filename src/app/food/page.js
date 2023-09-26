@@ -1,5 +1,5 @@
 // 1. Import Area
-import React from 'react'
+import React from 'react/no-unescaped-entities'
 
 // 2. Defiantion Area
  function page() {
